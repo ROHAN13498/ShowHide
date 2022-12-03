@@ -1,0 +1,10 @@
+td{
+    border:solid 2px white ;
+    background-color: #1470af;
+    color: white;
+}
+table{
+    border-collapse:collapse;
+    position: relative;
+    top: 30px;
+}
